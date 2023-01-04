@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlYyOgMKra7RosBNYjUipg_TN_o1d6cWhXw&usqp=CAU)]
+[![MasterHead](https://trainings.internshala.com/cached_uploads/full-stack-web-development-specialization/banner_hero.png)](https://vikramn11.github.io)
 <h1 align="center">Hi 👋, I'm Vikram Navik</h1>
 <h3 align="center">I am an aspiring Full Stack Web Developer</h3>
 <img width="400" align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"  />
