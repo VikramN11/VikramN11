@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikramn11&theme=radical" alt="vikramn11" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikram11)](https://github.com/vikram11/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=vikram11)](https://github.com/vikram11/github-profile-trophy) -->
